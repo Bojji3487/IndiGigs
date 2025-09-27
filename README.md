@@ -1,2 +1,2 @@
 # IndiGigs
-heyyy
+Repository for our hackathon freelancing site
